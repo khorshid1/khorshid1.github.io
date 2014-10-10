@@ -10,5 +10,7 @@ body {
   margin: 20px auto;
 }
 #navigation {
-	text-align: right;
+	text-align: center;
+	width: 460px;
+	margin: 20px auto;
 }
