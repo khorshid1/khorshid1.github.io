@@ -5,7 +5,13 @@ body {
 a {
 	color: green;
 }
-
+p, li {
+	line-height: 26pt
+}
+#wrapper {
+  background-color: gray;
+  padding: 20px;
+}
 #wrapper {
   width: 960px;
   margin: 20px auto;
