@@ -3,7 +3,7 @@ body {
   font-weight: 300;
 }
 h1 {
-	font-size: 50px;
+	font-size: 30px;
 	font-style: bold;
 }
 a {
@@ -20,7 +20,7 @@ p, li {
 }
 #navigation {
 	text-align: center;
-	height: 50px;
+	height: 40px;
 	width: 560px;
 	margin: 20px auto;
 }
@@ -29,4 +29,7 @@ p, li {
 }
 img#capoeira1 {
 	border: 20px black;
+}
+img#cblogo2012 {
+	float: right;
 }
