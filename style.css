@@ -1,7 +1,9 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background: url(sandybeach.jpg) repeat;
+  font-family: 'Droid Sans', arial;
+  background-image: url(sandybeach.jpg) repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
 #wrapper {
   width: 960px;
