@@ -11,5 +11,7 @@ a {
   margin: 20px auto;
 }
 #navigation {
-	text-align: center center;
+	text-align: center;
+	width: 960px;
+	margin: 20px auto;
 }
