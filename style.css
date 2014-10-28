@@ -1,16 +1,11 @@
-body {
-  font-family: 'Droid Sans', arial;
-  background-image: url(desert.jpg) repeat;
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
+.jumbotron {
+    background-image: url(Capoeira_Club_Logo.jpg);
+    background-size: cover;
+    background-position: bottom top;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto;
+.jumbotron h1 {
+  color: 575656;
 }
-#navigation {
-	text-align: center;
-	width: 560px;
-	margin: 20px auto;
+.jumbotron h2 {
+  color: 9E9D9D;
 }
